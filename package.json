@@ -18,15 +18,7 @@
     "prettier": "prettier --write .",
     "prepare": "husky install"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/gatsbyjs/gatsby-starter-landing-page.git"
-  },
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby-starter-landing-page/issues"
-  },
-  "homepage": "https://github.com/gatsbyjs/gatsby-starter-landing-page#readme",
   "dependencies": {
     "@fontsource/inter": "^4.5.1",
     "gatsby": "^4.2.0",
